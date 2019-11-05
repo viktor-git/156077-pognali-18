@@ -1,8 +1,7 @@
 # Личный проект «Погнали» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Витек Коровин](https://up.htmlacademy.ru/adaptive/18/user/156077).
-* Наставник: `Неизвестно`.
-
+* Наставник:  [Таня Симоненко] (https://htmlacademy.ru/profile/id6613)
 ---
 
 **Обратите внимание, что папка с вашими исходными файлами — `source/`.**
