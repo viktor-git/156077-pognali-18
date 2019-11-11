@@ -5,7 +5,9 @@
   "description": "Личный проект «Погнали» от HTML Academy",
   "devDependencies": {
     "@htmlacademy/editorconfig-cli": "1.x",
-    "stylelint": "10.1.x",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "stylelint": "^10.1.0",
     "stylelint-config-htmlacademy": "0.1.x"
   },
   "scripts": {
@@ -19,5 +21,19 @@
   ],
   "engines": {
     "node": "8.16"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viktor-git/156077-pognali-18.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viktor-git/156077-pognali-18/issues"
+  },
+  "homepage": "https://github.com/viktor-git/156077-pognali-18#readme",
+  "dependencies": {
+    "postcss": "^7.0.21"
   }
 }
