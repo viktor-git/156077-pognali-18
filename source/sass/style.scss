@@ -1,3 +1,19 @@
-body {
-  background: red;
+@font-face {
+  font-family: "BloggerSans";
+  src: url("../fonts/bloggersans.woff") format("truetype");
+  font-style: normal;
+  font-weight: normal;
 }
+
+$main-font: "BloggerSans";
+
+body {
+  font-family: $main-font, "Arial", sans-serif;
+  box-sizing: border-box;
+}
+
+.svg-sprite {
+  display: none;
+ }
+
+
